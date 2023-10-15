@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate C++ and Python developer</h3>
 
-<h4>- 🔭 I’m currently working on [FasterBoxd](https://github.com/realaryann/fasterboxd) </h4>
+- 🔭 I’m currently working on [FasterBoxd](https://github.com/realaryann/fasterboxd) 
 
-<h4>- 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)</h4>
+- 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
-<h4>- 📝 I regularly write articles on [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)</h4>
+- 📝 I regularly write articles on [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)
 
-<h4>- 📄 Know about my experiences [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)</h4>
+- 📄 Know about my experiences [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)
 
-<h4>- ⚡ Fun fact: **I love the game of basketball!**</h4>
+- ⚡ Fun fact: **I love the game of basketball!**</h4>
 
 <p align="left">
 </p>
