@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate C++ and Python developer</h3>
 
-- 🔭 I’m currently working on [FasterBoxd](https://github.com/realaryann/fasterboxd) 
+- 🔭 I’m currently working on [Pace-Man](https://github.com/realaryann/Pace-Man) 
 
 - 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
