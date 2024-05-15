@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate C++ and Python developer</h3>
 
 - 🔭 I’m currently working on [Pace-Man](https://github.com/realaryann/Pace-Man) 
 
