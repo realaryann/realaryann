@@ -4,12 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
-- 📝 I regularly write articles on [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)
-
-- 📄 Know about my experiences [https://realaryann.github.io/blog.html?](https://realaryann.github.io/blog.html?)
-
-- ⚡ Fun fact: **I love the game of basketball!**</h4>
-
 <p align="left">
 </p>
 
