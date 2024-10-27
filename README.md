@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 
-- 🔭 I’m currently working on [Pace-Man](https://github.com/realaryann/Pace-Man) 
+- 🔭 I’m currently working on [Pace-Man](https://github.com/realaryann/Pace-Man), and Check Sched: A College Schedule Sharing web-app
 
 - 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
