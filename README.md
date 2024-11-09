@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h1 align="center">Hi, I'm Aryan</h1>
 
 - 🔭 I’m currently working on:
 1)  [Pace-Man](https://github.com/realaryann/Pace-Man)
