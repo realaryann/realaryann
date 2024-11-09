@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 
-- 🔭 I’m currently working on [Pace-Man](https://github.com/realaryann/Pace-Man), and Check Sched: A College Schedule Sharing web-app.
+- 🔭 I’m currently working on:
+-  [Pace-Man](https://github.com/realaryann/Pace-Man)
+-  a-shell (ash): a UNIX based interactive and non-interactive shell
+-  Check-Sched: a college schedule sharing web-app built on Flask
 - Currently learning OCaml, TCP/IP, and building data intensive applications that are reliable, scalable, and maintainable.
 - 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
