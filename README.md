@@ -5,7 +5,8 @@
 2)  a-shell (ash): a UNIX based interactive and non-interactive shell
 3)  Check-Sched: a college schedule sharing web-app built on Flask
 - Currently learning OCaml, TCP/IP, and building data intensive applications that are reliable, scalable, and maintainable.
-- 👨‍💻 All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
+
+ All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
 <p align="left">
 </p>
