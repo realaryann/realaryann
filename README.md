@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aryan</h1>
 
 - 🔭 I’m currently working on:
-1)  a-shell (ash): a UNIX based interactive and non-interactive shell
-2)  [Pace-Man](https://github.com/realaryann/Pace-Man)
+1)  [a-shell](https://github.com/realaryann/a-shell) (ash): a UNIX based interactive and non-interactive shell
+2)  [Pace-Man](https://github.com/realaryann/Pace-Man):  a clone of the classic Pac-Man game
 3)  Check-Sched: a college schedule sharing web-app built on Flask
 - Currently learning OCaml, TCP/IP, and building data intensive applications that are reliable, scalable, and maintainable.
 
