@@ -1,6 +1,6 @@
- learning TCP/IP, network programming, and building data intensive applications that are reliable, scalable, and maintainable.
+TCP/IP, network programming, and building data intensive applications that are reliable, scalable, and maintainable.
 
- All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
+All of my projects are available at [https://realaryann.github.io/projects.html?](https://realaryann.github.io/projects.html?)
 
 <p align="left">
 </p>
